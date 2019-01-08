@@ -1,4 +1,3 @@
-# Formation developpeur web
 # Informations personelles
 >Manar TOSHI
 >>Tel : 06-98-86-15-63
