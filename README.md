@@ -5,7 +5,7 @@
 >>>>Addresse : 83 rue jacques louis blots, 37540 St Cyr Sur Loire
 # Mes motivations
 >Je veux suivre la formation de devoloppeur web car j'aime bien ce domaine et tous qui ont des relation avec l'informatique et les langues des programmations. Ayant déjà une certaine expérience dans ce domaine puisque j'ai appris des langues des programmations pendant mes etudes et je cherche à développer mes compétences dans le domaine de la programmation.
-# Formation
+# Formations
 >BACHELOR MECHATRONICS ENGINEERING / 2013
 >>Equivalent Bac +4 Automatisme Informatique Industrielle / 
 >>>Université de Mossoul-Irak
@@ -13,7 +13,7 @@
 >>>>>Lycée de Mossoul-Irak 
 >>>>>>Formation complémentaire / 2017-2018
 >>>>>>>Langue française B2 validé / CUEFEE TOURS
-# Competence
+# Competences
 >Maitrise des logiciels : Multisim, Matlab, Autocad, Simulink
 >>Maitrise des langages informatiques : C++, C
 >>>Utilisation de logiciel de conception (LabVIEW)
