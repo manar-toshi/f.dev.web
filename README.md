@@ -1,6 +1,6 @@
 # Informations personelles
->Manar TOSHI
->>Tel : 06-98-86-15-63
+Manar TOSHI;
+;Tel : 06-98-86-15-63
 >>>Adresse-mail : manar.toshi@gmail.com
 >>>>Addresse : 83 rue jacques louis blots, 37540 St Cyr Sur Loire
 # Mes motivations
