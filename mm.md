@@ -1,5 +1,0 @@
-# manar
-nnuhgiuhguioh
->ihiugiyugfiuijpoj
-
->>hj
